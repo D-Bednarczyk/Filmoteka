@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://github.com/ReXeR00/Group-project-GO-IT",
+  "homepage": "https://github.com/D-Bednarczyk/Filmoteka",
   "scripts": {
     "dev": "parcel src/*.html --no-cache",
-    "build": "parcel build src/*.html --public-url /Group-project-GO-IT/"
+    "build": "parcel build src/*.html --public-url /Filmoteka/"
   },
   "repository": {
     "type": "git",
